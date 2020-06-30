@@ -1,4 +1,7 @@
 __pycache__
+.pytest*
+.egg*
+*.egg-info
 
 # cache s3 lock locally
 lock_obj.txt

@@ -17,4 +17,4 @@ log = "0.4.11"
 toml = "0.5.7"
 once_cell = "1.4.1"
 rental = "0.5.5"
-serde = { version = "1.0.117", features = ["derive"] }
+serde = { version = "1.0.126", features = ["derive"] }

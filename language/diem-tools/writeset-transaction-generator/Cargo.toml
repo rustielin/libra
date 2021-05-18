@@ -16,7 +16,7 @@ anyhow = "1.0.34"
 structopt = "0.3.21"
 tempfile = "3.1.0"
 handlebars = "3.5.1"
-serde = { version = "1.0.117", default-features = false }
+serde = { version = "1.0.126", default-features = false }
 serde_json = "1.0.60"
 
 diem-workspace-hack = { path = "../../../common/workspace-hack", version = "0.1.0" }
